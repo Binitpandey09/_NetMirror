@@ -106,12 +106,3 @@ Contributions are always welcome!
 
 see `contributing.md` for ways to get started
 
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
-
-## :handshake: Contact
-
-Gyandeep Aryan - - gyandeeparyan.dev@gmail.com
-
-Project Link: [https://github.com/gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/netflix-gpt)
